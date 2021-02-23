@@ -1,0 +1,25 @@
+{
+  "name": "@lucets/message-hooks",
+  "version": "0.1.0",
+  "description": "Versatile framework for WebSockets",
+  "main": "./dist/index.js",
+  "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
+  "homepage": "http://github.com/lucets/message-hooks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucets/message-hooks.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "hooks",
+    "message",
+    "luce",
+    "ws"
+  ],
+  "license": "MIT"
+}
