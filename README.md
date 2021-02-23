@@ -1,6 +1,8 @@
 # @lucets/message-hooks
 
-..
+Message hooks for [@lucets/luce](https://github.com/lucets/luce).
+
+Can be used stand-alone as well. Zero dependencies!
 
 ## Install
 
