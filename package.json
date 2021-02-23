@@ -1,7 +1,7 @@
 {
   "name": "@lucets/message-hooks",
   "version": "0.1.0",
-  "description": "Versatile framework for WebSockets",
+  "description": "Message hooks for @lucets/luce",
   "main": "./dist/index.js",
   "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
   "homepage": "http://github.com/lucets/message-hooks",
