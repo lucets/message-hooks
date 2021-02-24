@@ -46,6 +46,6 @@ export default class MessageHooks<TMessage, TContext> extends Set<MessageHook<TM
       return
     }
 
-    return MessageHooks.compose(...this.values())(message, ctx, noopAsync)
+    await MessageHooks.compose(...this.values())(message, ctx, noopAsync)
   }
 }
